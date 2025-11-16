@@ -67,6 +67,3 @@ This backend does **not** store actual video files — it stores **video URLs** 
 - **Cloudinary or S3 URL support**
 - **Nodemon (dev)**
 
----
-
-# 📂 Folder Structure
